@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **OpenAI and its applications in various fields.**
 
-- 💬 Ask me about **Projects Embedded and IoT**
+- 💬 Ask me about **Embedded and IoT**
 
 - 📫 How to reach me **devendragawade3112@gmail.com**
 
