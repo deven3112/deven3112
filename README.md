@@ -1,4 +1,4 @@
-![logo](https://github.com/)
+
 <h1 align="center">Hi 👋, I'm TechWith_Deven</h1>
 <h3 align="center">👀 I’m interested in exploring technology and new ideas come together to make cool stuff happen.</h3>
 
