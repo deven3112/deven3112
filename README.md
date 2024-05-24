@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm TechWith_Deven</h1>
 <h3 align="center">👀 I’m interested in exploring technology and new ideas come together to make cool stuff happen.</h3>
 
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+<img align="right" alt="coding" width="300" src="https://media0.giphy.com/media/bGgsc5mWoryfgKBx1u/200w.gif?cid=6c09b952yet34ro6fdmi09f28mq4xqfpbva4jaqikb4pomt8&ep=v1_gifs_search&rid=200w.gif&ct=g">
 
 - 🔭 I’m currently working on **Smart Wheelchair for Paralysis Patient and**
 
